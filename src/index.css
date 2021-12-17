@@ -4,7 +4,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #2e2e2e;
+  background: url(/public/leah.jpg);
+  background-size: 100% auto;
   font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
@@ -19,7 +20,7 @@ body {
 .box {
   height: 100px;
   width: 100px;
-  background-color: #1a1a1a;
+  background-color: #0000007c;
   display: flex;
   justify-content: center;
   align-items: center;
